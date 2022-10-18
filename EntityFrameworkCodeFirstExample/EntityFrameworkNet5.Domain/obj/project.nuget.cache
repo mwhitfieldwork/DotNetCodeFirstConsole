@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XxTubjq2yVXFNzUjcfpchVu26v6XhMgW/yicNCYx6D+HEAo/Rjs2ZNyN5i9UM6s/ARRayLvetCwUrTp1JY2v/g==",
+  "success": true,
+  "projectFilePath": "D:\\Practice\\BackEnd\\DotNetCodeFirstConsole\\EntityFrameworkCodeFirstExample\\EntityFrameworkNet5.Domain\\EntityFrameworkNet5.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\whitf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\whitf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\whitf\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
